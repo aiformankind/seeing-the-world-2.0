@@ -22,6 +22,9 @@ https://seeingtheworld.live/
 ### Test out Fruit/Veggie Classifier
 https://fruit-veggie-classifier.azurewebsites.net/
 
+### Quick Start Notebook
+[Quickstart Notebook to build fruit/veggie classifier](Seeing-the-World-Model-Training-Workflow.ipynb)
+
 ### Volunteer Your Expertise
 Come join our efforts and volunteer your expertise. Here are the upcoming capabilities we are researching and implementing.
 1. Incremental learning
