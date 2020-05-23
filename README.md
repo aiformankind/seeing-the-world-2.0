@@ -16,10 +16,16 @@ https://www.dropbox.com/s/z75jobx3dzxxrj4/fruit-veggie-train.tar.gz
 
 https://www.dropbox.com/s/rjvtfwxf6vz5s4j/fruit-veggie-validate.tar.gz
 
-### Share Fruit/Veggie Images
+### Share Fruit/Veggie Images with Us
 https://seeingtheworld.live/
 
 ### Test out Fruit/Veggie Classifier
 https://fruit-veggie-classifier.azurewebsites.net/
+
+### Volunteer Your Expertise
+Come join our efforts and volunteer your expertise. Here are the upcoming capabilities we are researching and implementing.
+1. Incremental learning
+2. Active learning
+3. Few shots learning
 
 ### Resources
