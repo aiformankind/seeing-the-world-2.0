@@ -29,7 +29,7 @@ https://fruit-veggie-classifier.azurewebsites.net/
 Come join our efforts and volunteer your expertise. Here are the upcoming capabilities we are researching and implementing.
 1. Incremental learning
 2. Active learning
-3. Few shots learning
+3. Few shot learning
 
 ### Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
