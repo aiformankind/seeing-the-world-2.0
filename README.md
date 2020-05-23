@@ -1,4 +1,4 @@
-# seeing-the-world-2.0
+# Seeing The World
 
 AI For Mankind’s Seeing the World Project wants to make the physical world more accessible and navigable to people who are blind or have low vision.
 
@@ -31,4 +31,12 @@ Come join our efforts and volunteer your expertise. Here are the upcoming capabi
 2. Active learning
 3. Few shots learning
 
+### Join Our Slack Channel
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
+
 ### Resources
+
+### Donate
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission.
+
+AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
