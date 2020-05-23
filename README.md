@@ -34,6 +34,9 @@ Come join our efforts and volunteer your expertise. Here are the upcoming capabi
 ### Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
+### Project Blog
+https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a
+
 ### Resources
 
 ### Donate
