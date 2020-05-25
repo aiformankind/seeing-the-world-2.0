@@ -22,6 +22,10 @@ https://seeingtheworld.live/
 ### Test out Fruit/Veggie Classifier
 https://fruit-veggie-classifier.azurewebsites.net/
 
+<img src="images/TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="350"/><img src="images/eggplantClassifier.png" alt="Eggplant" width="350"/>
+  
+<br/>
+
 ### Quick Start Notebook
 [Quickstart Notebook to build fruit/veggie classifier](Seeing-the-World-Model-Training-Workflow.ipynb)
 
