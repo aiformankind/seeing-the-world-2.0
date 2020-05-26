@@ -23,9 +23,11 @@ https://seeingtheworld.live/
 https://fruit-veggie-classifier.azurewebsites.net/
 
 <img src="images/TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="350"/><img src="images/eggplantClassifier.png" alt="Eggplant" width="350"/>
-  
-<br/>
 
+### Human in the Loop Incremental Learning
+<img src="images/cherryTomatoLabeling.png" alt="Annotate cherry tomato" align="left" width="350"/><img src="images/carrotLabeling.png" alt="Annotate carrot" width="350"/>
+  
+  
 ### Quick Start Notebook
 [Quickstart Notebook to build fruit/veggie classifier](Seeing-the-World-Model-Training-Workflow.ipynb)
 
