@@ -6,7 +6,7 @@ If an autonomous vehicle can drive itself, we strongly believe we can enable peo
 
 Imagine a world where people who are blind or have low vision do not need a white cane to walk around. They go around doing chores like grocery shopping just like everyone else. Isn’t it wonderful ? Is it possible ? We believe so. It will not be easy for sure, but it is totally possible.
 
-Seeing the World project is proud to be selected as one of the [Microsoft AI for Accessibility](https://www.microsoft.com/en-us/ai/ai-for-accessibility)’s grantees.
+**Seeing the World project is proud to be selected as one of the [Microsoft AI for Accessibility](https://www.microsoft.com/en-us/ai/ai-for-accessibility)’s grantees.**
 
 ### Datasets
 
