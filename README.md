@@ -16,6 +16,8 @@ https://www.dropbox.com/s/z75jobx3dzxxrj4/fruit-veggie-train.tar.gz
 
 https://www.dropbox.com/s/rjvtfwxf6vz5s4j/fruit-veggie-validate.tar.gz
 
+We collected 64 different fruit/veggie categories. Total number of collected fruit/veggie images are 1956.
+
 ### Share Fruit/Veggie Images with Us
 https://seeingtheworld.live/
 
